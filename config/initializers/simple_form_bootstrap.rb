@@ -3,7 +3,7 @@
 # Please do not make direct changes to this file!
 # This generator is maintained by the community around simple_form-bootstrap:
 # https://github.com/heartcombo/simple_form-bootstrap
-# All future development, tests, and organization should happen there.
+# All future development, tests, and organization should rails db:seed  happen there.
 # Background history: https://github.com/heartcombo/simple_form/issues/1561
 # Uncomment this and change the path if necessary to include your own
 # components.
